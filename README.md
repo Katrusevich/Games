@@ -13,7 +13,7 @@ Classic arcade game created on Java with support for one and two players.
 https://github.com/user-attachments/assets/e8c9eacd-efae-43c3-a467-3cff710533ee
 
 ### Start the game:
-1. Download the `snakiez.jar` file below.
+1. Download the latest release: [Snakez Game v1.0](https://github.com/Katrusevich/Games/releases/tag/v1.0.0).
 2. Make sure you have Java (version 8 or higher) installed.
 3. Run the file with the command:
 ```java
