@@ -1,6 +1,6 @@
 ![Текст абзаца](https://github.com/user-attachments/assets/a1225f67-835d-48a5-bd3b-6a3cd7f71a45)
 
-## “Snakiez” v1.0.
+## “Snakiez” v1.0
 
 Classic arcade game created on Java with support for one and two players.
 
